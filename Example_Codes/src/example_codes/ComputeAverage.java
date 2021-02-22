@@ -1,5 +1,5 @@
 
-package example_code;
+package example_codes;
 
 import java.util.Scanner;
 

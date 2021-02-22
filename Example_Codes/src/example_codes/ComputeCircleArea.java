@@ -1,9 +1,9 @@
 
-package example_code;
+package example_codes;
 
 import java.util.Scanner;
 
-public class ComputeArea {
+public class ComputeCircleArea {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double radius;
